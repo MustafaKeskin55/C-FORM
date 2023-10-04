@@ -1,0 +1,17 @@
+C:\Users\mustafa\Desktop\calışmalarım\c# ders calışmaları\C# FORM\giris arayüzü\giris arayüzü\bin\Debug\net6.0-windows\giris arayüzü.exe
+C:\Users\mustafa\Desktop\calışmalarım\c# ders calışmaları\C# FORM\giris arayüzü\giris arayüzü\bin\Debug\net6.0-windows\giris arayüzü.deps.json
+C:\Users\mustafa\Desktop\calışmalarım\c# ders calışmaları\C# FORM\giris arayüzü\giris arayüzü\bin\Debug\net6.0-windows\giris arayüzü.runtimeconfig.json
+C:\Users\mustafa\Desktop\calışmalarım\c# ders calışmaları\C# FORM\giris arayüzü\giris arayüzü\bin\Debug\net6.0-windows\giris arayüzü.dll
+C:\Users\mustafa\Desktop\calışmalarım\c# ders calışmaları\C# FORM\giris arayüzü\giris arayüzü\bin\Debug\net6.0-windows\giris arayüzü.pdb
+C:\Users\mustafa\Desktop\calışmalarım\c# ders calışmaları\C# FORM\giris arayüzü\giris arayüzü\obj\Debug\net6.0-windows\giris arayüzü.csproj.AssemblyReference.cache
+C:\Users\mustafa\Desktop\calışmalarım\c# ders calışmaları\C# FORM\giris arayüzü\giris arayüzü\obj\Debug\net6.0-windows\giris_arayüzü.Form1.resources
+C:\Users\mustafa\Desktop\calışmalarım\c# ders calışmaları\C# FORM\giris arayüzü\giris arayüzü\obj\Debug\net6.0-windows\giris arayüzü.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\calışmalarım\c# ders calışmaları\C# FORM\giris arayüzü\giris arayüzü\obj\Debug\net6.0-windows\giris arayüzü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\calışmalarım\c# ders calışmaları\C# FORM\giris arayüzü\giris arayüzü\obj\Debug\net6.0-windows\giris arayüzü.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\calışmalarım\c# ders calışmaları\C# FORM\giris arayüzü\giris arayüzü\obj\Debug\net6.0-windows\giris arayüzü.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\calışmalarım\c# ders calışmaları\C# FORM\giris arayüzü\giris arayüzü\obj\Debug\net6.0-windows\giris arayüzü.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\calışmalarım\c# ders calışmaları\C# FORM\giris arayüzü\giris arayüzü\obj\Debug\net6.0-windows\giris arayüzü.dll
+C:\Users\mustafa\Desktop\calışmalarım\c# ders calışmaları\C# FORM\giris arayüzü\giris arayüzü\obj\Debug\net6.0-windows\refint\giris arayüzü.dll
+C:\Users\mustafa\Desktop\calışmalarım\c# ders calışmaları\C# FORM\giris arayüzü\giris arayüzü\obj\Debug\net6.0-windows\giris arayüzü.pdb
+C:\Users\mustafa\Desktop\calışmalarım\c# ders calışmaları\C# FORM\giris arayüzü\giris arayüzü\obj\Debug\net6.0-windows\giris arayüzü.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\calışmalarım\c# ders calışmaları\C# FORM\giris arayüzü\giris arayüzü\obj\Debug\net6.0-windows\ref\giris arayüzü.dll

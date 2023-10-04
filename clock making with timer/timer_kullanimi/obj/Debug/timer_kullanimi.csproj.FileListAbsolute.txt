@@ -1,0 +1,20 @@
+C:\Users\test\Desktop\Nesne_tabanlı\timer_kullanimi\timer_kullanimi\bin\Debug\timer_kullanimi.exe.config
+C:\Users\test\Desktop\Nesne_tabanlı\timer_kullanimi\timer_kullanimi\bin\Debug\timer_kullanimi.exe
+C:\Users\test\Desktop\Nesne_tabanlı\timer_kullanimi\timer_kullanimi\bin\Debug\timer_kullanimi.pdb
+C:\Users\test\Desktop\Nesne_tabanlı\timer_kullanimi\timer_kullanimi\obj\Debug\timer_kullanimi.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\Nesne_tabanlı\timer_kullanimi\timer_kullanimi\obj\Debug\timer_kullanimi.Form1.resources
+C:\Users\test\Desktop\Nesne_tabanlı\timer_kullanimi\timer_kullanimi\obj\Debug\timer_kullanimi.Properties.Resources.resources
+C:\Users\test\Desktop\Nesne_tabanlı\timer_kullanimi\timer_kullanimi\obj\Debug\timer_kullanimi.csproj.GenerateResource.Cache
+C:\Users\test\Desktop\Nesne_tabanlı\timer_kullanimi\timer_kullanimi\obj\Debug\timer_kullanimi.exe
+C:\Users\test\Desktop\Nesne_tabanlı\timer_kullanimi\timer_kullanimi\obj\Debug\timer_kullanimi.pdb
+C:\Users\mustafa\Desktop\SINAV NOTLARI\Nesne_tabanlı\timer_kullanimi\timer_kullanimi\bin\Debug\timer_kullanimi.exe.config
+C:\Users\mustafa\Desktop\SINAV NOTLARI\Nesne_tabanlı\timer_kullanimi\timer_kullanimi\bin\Debug\timer_kullanimi.exe
+C:\Users\mustafa\Desktop\SINAV NOTLARI\Nesne_tabanlı\timer_kullanimi\timer_kullanimi\bin\Debug\timer_kullanimi.pdb
+C:\Users\mustafa\Desktop\SINAV NOTLARI\Nesne_tabanlı\timer_kullanimi\timer_kullanimi\obj\Debug\timer_kullanimi.csproj.AssemblyReference.cache
+C:\Users\mustafa\Desktop\SINAV NOTLARI\Nesne_tabanlı\timer_kullanimi\timer_kullanimi\obj\Debug\timer_kullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mustafa\Desktop\SINAV NOTLARI\Nesne_tabanlı\timer_kullanimi\timer_kullanimi\obj\Debug\timer_kullanimi.Form1.resources
+C:\Users\mustafa\Desktop\SINAV NOTLARI\Nesne_tabanlı\timer_kullanimi\timer_kullanimi\obj\Debug\timer_kullanimi.Properties.Resources.resources
+C:\Users\mustafa\Desktop\SINAV NOTLARI\Nesne_tabanlı\timer_kullanimi\timer_kullanimi\obj\Debug\timer_kullanimi.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\SINAV NOTLARI\Nesne_tabanlı\timer_kullanimi\timer_kullanimi\obj\Debug\timer_kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\SINAV NOTLARI\Nesne_tabanlı\timer_kullanimi\timer_kullanimi\obj\Debug\timer_kullanimi.exe
+C:\Users\mustafa\Desktop\SINAV NOTLARI\Nesne_tabanlı\timer_kullanimi\timer_kullanimi\obj\Debug\timer_kullanimi.pdb
